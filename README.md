@@ -36,7 +36,7 @@ CRISPR_Simulator/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Install Python dependencies
 Make sure Python and pip are installed, then open a terminal in the project folder and run:
@@ -65,7 +65,7 @@ The system will simulate the CRISPR edit and visualize the new sequence!
 
 ---
 
-## 🧠 Example
+##  Example
 
 **Input:**
 
@@ -85,7 +85,7 @@ The animation updates to reflect the change in the gene structure.
 
 ---
 
-## 🖥️ Technologies Used
+##  Technologies Used
 
 | Component | Technology                    |
 | --------- | ----------------------------- |
@@ -96,7 +96,7 @@ The animation updates to reflect the change in the gene structure.
 
 ---
 
-## 🌟 Future Enhancements
+##  Future Enhancements
 
 * 🧪 Add mutation visualization for single nucleotide changes
 * 🎨 Integrate 3D double-helix rendering using **Three.js**
@@ -106,15 +106,15 @@ The animation updates to reflect the change in the gene structure.
 
 
 
-## 👨‍🔬 Developer
+##  Developer
 
 **Developed by [DHEEPAK G](https://github.com/lillibot2054)**
-Student Innovator | AI & Robotics Enthusiast | 
+Researcg Scientist | Innovator | AI & Robotics Enthusiast | 
 ---
 
-## 🧾 License
+##  License
 
-This project is released under the **MIT License** — free for educational and research use.
+This project is released under the **MIT License** , free for educational and research use.
 
 ---
 
