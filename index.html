@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CRISPR-Based Genetic Editing Simulator</title>
+
+  <!-- ✅ CSS & Font Links -->
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Floating Decorative DNA Circle -->
+  <div class="dna"></div>
+
+  <!-- Header Section -->
+  <header>
+    <h1>🧬 CRISPR Genetic Editing Simulator</h1>
+    <p>Visualize how CRISPR edits DNA sequences using interactive coding logic and real-time animations.</p>
+  </header>
+
+  <!-- Main Interactive Section -->
+  <main class="container">
+    <form id="crisprForm">
+      <label>🔹 Enter Original DNA Sequence:</label>
+      <input type="text" id="original" placeholder="Example: ATGCGTACCGTACG" required>
+
+      <label>🔹 Target Sequence to Edit (Guide RNA):</label>
+      <input type="text" id="target" placeholder="Example: CGTA" required>
+
+      <label>🔹 Replacement (New Gene Section):</label>
+      <input type="text" id="replacement" placeholder="Example: GGAA" required>
+
+      <button type="submit">Simulate CRISPR Edit</button>
+    </form>
+
+    <!-- Result Box -->
+    <div class="result-box" id="resultBox">
+      <h2>🧪 Result:</h2>
+      <p id="resultText">Enter sequences above to begin the CRISPR simulation...</p>
+    </div>
+
+    <!-- DNA Animation Canvas -->
+    <canvas id="dnaCanvas" width="900" height="300"></canvas>
+  </main>
+
+  <!-- Footer -->
+  <footer style="text-align:center; padding:20px; color:#888;">
+    © 2025 Lillibot, Inc <strong>Dheepak G</strong> | AI & Robotics Enthusiast | Innovator | Developer  | Powered by HTML, CSS & JavaScript
+  </footer>
+
+  <!-- ✅ JavaScript -->
+  <script src="script.js"></script>
+</body>
+</html>
