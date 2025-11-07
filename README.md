@@ -104,7 +104,13 @@ The animation updates to reflect the change in the gene structure.
 
 ---
 
+---
 
+##  How To Run ( Without FLASK ) 
+
+Download HTML , CSS , JS file in your computer & place them in same folder or file and open HTML file locally 
+
+---
 
 ##  Developer
 
