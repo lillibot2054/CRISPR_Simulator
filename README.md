@@ -115,7 +115,7 @@ Download HTML , CSS , JS file in your computer & place them in same folder or fi
 ##  Developer
 
 **Developed by [DHEEPAK G](https://github.com/lillibot2054)**
-Researcg Scientist | Innovator | AI & Robotics Enthusiast | 
+Research Scientist | Innovator | AI & Robotics Enthusiast | 
 ---
 
 ##  License
